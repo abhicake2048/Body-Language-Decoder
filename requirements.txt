@@ -1,0 +1,7 @@
+Libraries used in the project are as follows:
+1. OpenCV
+2. Mediapipe
+3. Scikit-learn
+4. Pandas
+5. Numpy
+6. Pickle
